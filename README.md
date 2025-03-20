@@ -1,5 +1,5 @@
 # Audio Amplifier Design
-This is Project-1 of the EW-2 (EC2.202), Monsoon 2025. The design goes over theoretical calculation *(included in report)*, simulation and implementation of 4 stages:
+This is Project-1 of the EW-2 (EC2.202), Spring 2025. The design goes over theoretical calculation *(included in report)*, simulation and implementation of 4 stages:
 # Stages
 - Differential Amplifier
 - CE Stage
